@@ -1,0 +1,24 @@
+.container{
+margin:0 auto;
+width: 95vw;
+height: auto;
+background-color: rgba(210,143,94,.5);
+display: flex;
+flex-flow: row wrap;
+justify-content: space-around;
+}
+
+.card{
+    border:2px solid blue;
+    border-radius: 15px;
+    width: 25%;
+    height: 35%;
+    margin:2%;
+    text-align: center;
+}
+
+p{
+    font-size: .8rem;
+}
+
+
